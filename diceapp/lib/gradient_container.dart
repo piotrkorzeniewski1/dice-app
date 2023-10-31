@@ -25,7 +25,7 @@ class GradientContainer extends StatelessWidget {
             child: Column(
              children: [
               Image.asset('assets/images/dice-1.png',width: 200),
-              TextButton(onPressed: () {}, child: const StyledText('Roll me', Color.fromARGB(255, 1, 247, 255) ))
+              TextButton(onPressed: () {}, child: const StyledText('Roll me!', Color.fromARGB(255, 1, 247, 255) ))
              ], 
             ),
             ),
