@@ -1,3 +1,3 @@
 # dice-app
 
-Fist app with flutter
+Fist app with flutter.
