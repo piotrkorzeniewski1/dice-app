@@ -34,7 +34,7 @@ class _DiceRollerState extends State<DiceRoller>{
                 'assets/images/dice-$randomNumber.png', 
                 width: 200,
                 ),
-              const SizedBox(height: 20,),
+              const SizedBox(height: 19,),
 
               TextButton(
               onPressed: rollDice,
